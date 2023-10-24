@@ -1,0 +1,8 @@
+pandas
+networkx
+python-louvain
+matplotlib
+plotly
+python-dotenv
+dune-client
+nltk
